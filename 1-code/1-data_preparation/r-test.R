@@ -7,4 +7,7 @@ theme(axis.title = element_text(size = 20),
 axis.text = element_text(size = 20)) +
 theme_bw()
 
+library(tidymass)
+
+tidymass::tidymass_logo()
 
