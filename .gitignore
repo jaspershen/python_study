@@ -1,0 +1,18 @@
+node_modules/
+.env
+build/
+
+2-data
+2-data/
+
+##ignore the 3-data_analysis
+3-data_analysis
+3-data_analysis/
+
+##ignore the 4-manuscript
+4-manuscript
+4-manuscript/
+
+###ignore the 5-summary
+5-summary
+5-summary/
